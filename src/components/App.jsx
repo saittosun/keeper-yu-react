@@ -1,7 +1,6 @@
 // jshint esversion: 6
 import React from 'react';
 
-// import './App.css';
 import Header from './Header';
 import Footer from './Footer';
 import Note from './Note';
